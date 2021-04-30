@@ -1,6 +1,6 @@
 ### Hi there 👋  [medium](https://54sakuramiku.medium.com/)
 
-There is my website. [https://sectools.tw](https://sectools.tw)   Please buy me a coffee.
+There is my website. [https://sectools.tw](https://sectools.tw)  Please buy me a coffee to support server maintenance.
 
 https://buymeacoffee.com/stwater20
 
