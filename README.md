@@ -2,9 +2,9 @@
 
 There is my website. [https://sectools.tw](https://sectools.tw)   Please buy me a coffee.
 
-[https://buymeacoffee.com/stwater20] (https://buymeacoffee.com/stwater20)
+https://buymeacoffee.com/stwater20
 
-[https://button.like.co/ryan1420] (https://button.like.co/ryan1420)
+https://button.like.co/ryan1420
 
 <!--
 **stwater20/stwater20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
