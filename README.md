@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-My name is Ryan.Chen,
+My name is Shan S. Shen,
 
 and I like digital forensics in the field of information security, 
 
@@ -20,6 +20,8 @@ If you like this website or related creations, please support me for a cup of co
 https://www.buymeacoffee.com/stwater20
 
 https://button.like.co/ryan1420
+
+also Can view my biography in https://sectools.tw/author-ryan
 
 <!--
 **stwater20/stwater20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
