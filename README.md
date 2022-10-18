@@ -1,10 +1,7 @@
 ### Hi there 👋  
 
 My name is Shan S. Shen,
-
-and I like digital forensics in the field of information security, 
-
-so I created an information security website. 
+I created an information security website. 
 Thank you for your support.
 
 <!--  Please buy me a coffee to support server maintenance. -->
