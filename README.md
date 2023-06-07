@@ -4,6 +4,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stwater20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 If you like [https://sectools.tw](https://sectools.tw) or related creations, please support me for a cup of coffee, thank you.
 
 https://www.buymeacoffee.com/stwater20
