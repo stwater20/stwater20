@@ -1,18 +1,6 @@
 ### Hi there 👋  
 
-My name is Shan S. Shen,
-I created an information security website. 
-Thank you for your support.
-
-<!--  Please buy me a coffee to support server maintenance. -->
-
-[SecTools.tw](https://sectools.tw) is the first Chinese traditional open source information security tool promotion platform.
-
-We also write the tutorial to give back to the society.
-
-https://sectools.tw 
-
-another website is https://stwater20.github.io
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 If you like this website or related creations, please support me for a cup of coffee, thank you.
 
