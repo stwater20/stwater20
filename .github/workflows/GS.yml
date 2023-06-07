@@ -5,9 +5,6 @@ name: GS
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
-  schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
   push:
     branches: [ "main" ]
   pull_request:
