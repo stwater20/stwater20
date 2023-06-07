@@ -1,8 +1,12 @@
 ### Hi there 👋  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-If you like this website or related creations, please support me for a cup of coffee, thank you.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stwater20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20&layout=compact)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stwater20)](https://github.com/anuraghazra/github-readme-stats)
+
+If you like [https://sectools.tw](https://sectools.tw) or related creations, please support me for a cup of coffee, thank you.
 
 https://www.buymeacoffee.com/stwater20
 
