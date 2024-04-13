@@ -1,8 +1,8 @@
 ### Hi there 👋  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20&layout=compact)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stwater20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20&layout=compact)
 
 
 ![snake gif](https://github.com/stwater20/stwater20/blob/output/github-contribution-grid-snake.svg)
