@@ -1,32 +1,18 @@
-### Hi there 👋  
+### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20&layout=compact)
+Welcome to my GitHub profile! Check out my most used languages and some stats below:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stwater20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+#### 📊 My Programming Stats
 
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20&layout=compact)
 
+<!-- GitHub Stats Card -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stwater20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 🐍 Watch my GitHub contributions get eaten by a snake!
 ![snake gif](https://github.com/stwater20/stwater20/blob/output/github-contribution-grid-snake.svg)
 
-
-
-If you like [https://sectools.tw](https://sectools.tw) or related creations, please support me for a cup of coffee, thank you.
-
-https://www.buymeacoffee.com/stwater20
-
-https://button.like.co/ryan1420
-
-<!--
-**stwater20/stwater20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+#### 🔗 Links and Resources
+- [My Security Tools Website](https://sectools.tw)
+- [Support my work on LikeCoin](https://button.like.co/ryan1420)
