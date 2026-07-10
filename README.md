@@ -15,10 +15,10 @@ Welcome to my GitHub profile! Here's a quick look at my activity and stats.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwater20&layout=compact&theme=default" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=stwater20&layout=compact&theme=default" alt="Top Languages" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=stwater20&show_icons=true&theme=default" alt="GitHub Stats" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=stwater20&show_icons=true&theme=default" alt="GitHub Stats" />
 </a>
 
 </div>
